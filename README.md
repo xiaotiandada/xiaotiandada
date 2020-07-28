@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm 小田 👋 💖 👨🏻‍💻
 
 🌱 I’m currently learning ...
 
