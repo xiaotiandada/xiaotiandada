@@ -7,7 +7,7 @@
 Just looking around ？
 
 - [moyu](https://github.com/xiaotiandada/moyu) Reading novels
-- [https://github.com/xiaotiandada/issues](https://github.com/xiaotiandada/issues) Async issues to markdown
+- [issues](https://github.com/xiaotiandada/issues) Async issues to markdown
 
 <!--
 **xiaotiandada/xiaotiandada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
