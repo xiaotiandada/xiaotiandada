@@ -8,6 +8,8 @@ Just looking around ？
 
 - [moyu](https://github.com/xiaotiandada/moyu) Reading novels
 - [issues](https://github.com/xiaotiandada/issues) Async issues to markdown
+- [cli-ant](https://github.com/xiaotiandada/cli-ant) Cli init project tempalate
+- [tool-ant](https://github.com/xiaotiandada/tool-ant) Js tool
 
 <!--
 **xiaotiandada/xiaotiandada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
