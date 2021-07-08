@@ -10,6 +10,7 @@ Just looking around ？
 - [issues](https://github.com/xiaotiandada/issues) Async issues to markdown
 - [cli-ant](https://github.com/xiaotiandada/cli-ant) Cli init project tempalate
 - [tool-ant](https://github.com/xiaotiandada/tool-ant) Js tool
+- [cui](https://github.com/xiaotiandada/cui) [CUI](https://bit.dev/xiaotiandada/cui)
 
 <!-- 该死的“虚荣心” -->
 
