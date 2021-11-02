@@ -13,6 +13,8 @@ Just looking around ？
 - [cui](https://github.com/xiaotiandada/cui) [CUI](https://bit.dev/xiaotiandada/cui) Copy Ui Components
 - [chain-temp](https://github.com/xiaotiandada/chain-temp) DAPP
 - [look](https://github.com/xiaotiandada/look) wallpaper APP
+- [look-wallpapers](https://github.com/xiaotiandada/look-wallpapers) wallpaper desktop application
+- [View on Github](https://github.com/xiaotiandada/view-on-github) VSCode Extension
 
 <!-- 该死的“虚荣心” -->
 
