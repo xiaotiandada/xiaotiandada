@@ -16,6 +16,14 @@ Just looking around ？
 - [look-wallpapers](https://github.com/xiaotiandada/look-wallpapers) wallpaper desktop application
 - [View on Github](https://github.com/xiaotiandada/view-on-github) VSCode Extension
 
+
+Robot notification 🤖️
+
+- [robot notification FE](https://github.com/xiaotiandada/robot-notification-fe)
+- [robot notification BE](https://github.com/xiaotiandada/robot-notification)
+- [robot monitor](https://github.com/xiaotiandada/arewedown)
+
+
 <!-- 该死的“虚荣心” -->
 
 Trace (PR)
