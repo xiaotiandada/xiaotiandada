@@ -10,7 +10,7 @@ Just looking around ？
 - [issues](https://github.com/xiaotiandada/issues) Async issues to markdown
 - [cli-ant](https://github.com/xiaotiandada/cli-ant) Cli init project tempalate
 - [cant](https://github.com/xiaotiandada/cant) Code tool
-- [cui](https://github.com/xiaotiandada/cui) Copy Ui Components
+- ~~[cui](https://github.com/xiaotiandada/cui) Copy Ui Components~~
 - [chain-temp](https://github.com/xiaotiandada/chain-temp) DAPP
 - [look](https://github.com/xiaotiandada/look) wallpaper APP
 - [look-wallpapers](https://github.com/xiaotiandada/look-wallpapers) wallpaper desktop application
