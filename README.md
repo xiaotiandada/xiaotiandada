@@ -14,7 +14,7 @@ Just looking around ？
 - [chain-temp](https://github.com/xiaotiandada/chain-temp) DAPP
 - [look](https://github.com/xiaotiandada/look) wallpaper APP
 - [look-wallpapers](https://github.com/xiaotiandada/look-wallpapers) wallpaper desktop application
-- [View on Github](https://github.com/xiaotiandada/view-on-github) VSCode Extension
+- ~~[View on Github](https://github.com/xiaotiandada/view-on-github) VSCode Extension~~
 
 
 Robot notification 🤖️
