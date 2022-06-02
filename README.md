@@ -9,7 +9,7 @@ Just looking around ？
 - [moyu](https://github.com/xiaotiandada/moyu) Reading novels
 - [issues](https://github.com/xiaotiandada/issues) Async issues to markdown
 - [cli-ant](https://github.com/xiaotiandada/cli-ant) Cli init project tempalate
-- [tool-ant](https://github.com/xiaotiandada/tool-ant) Js tool
+- [cant](https://github.com/xiaotiandada/cant)code tool
 - [cui](https://github.com/xiaotiandada/cui) Copy Ui Components
 - [chain-temp](https://github.com/xiaotiandada/chain-temp) DAPP
 - [look](https://github.com/xiaotiandada/look) wallpaper APP
