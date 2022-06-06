@@ -12,7 +12,7 @@ Just looking around ？
 - [look](https://github.com/xiaotiandada/look) wallpaper APP
 - [look-wallpapers](https://github.com/xiaotiandada/look-wallpapers) wallpaper desktop application
 - ~~[View on Github](https://github.com/xiaotiandada/view-on-github) VSCode Extension~~
-- ~~[issues](https://github.com/xiaotiandada/issues) Async issues to markdown~~
+- [issues](https://github.com/xiaotiandada/issues) Generate README from issues
 
 
 Robot notification 🤖️
