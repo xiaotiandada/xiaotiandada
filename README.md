@@ -7,8 +7,8 @@
 Just looking around ？
 
 
-- [cant](https://github.com/xiaotiandada/cant) [Code Tool](https://cant-xt.vercel.app)
-- [document](https://github.com/xiaotiandada/document) [Source Notes](https://source-notes.vercel.app)
+- [Code Tool](https://cant-xt.vercel.app) [Reoo](https://github.com/xiaotiandada/cant)
+- [Source Notes](https://source-notes.vercel.app) [Repo](https://github.com/xiaotiandada/document)
 - [chain-temp](https://github.com/xiaotiandada/chain-temp) DAPP
 - [look](https://github.com/xiaotiandada/look) wallpaper APP
 - [look-wallpapers](https://github.com/xiaotiandada/look-wallpapers) wallpaper desktop application
