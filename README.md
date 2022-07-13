@@ -9,12 +9,12 @@ Just looking around ？
 
 - [Code Tool](https://cant-xt.vercel.app) [Reoo](https://github.com/xiaotiandada/cant)
 - [Source Notes](https://source-notes.vercel.app) [Repo](https://github.com/xiaotiandada/document)
+- [issues](https://github.com/xiaotiandada/issues) Generate README from issues
 - [chain-temp](https://github.com/xiaotiandada/chain-temp) DAPP
 - [look](https://github.com/xiaotiandada/look) wallpaper APP
 - [look-wallpapers](https://github.com/xiaotiandada/look-wallpapers) wallpaper desktop application
 - [moyu](https://github.com/xiaotiandada/moyu) Reading novels
 - ~~[View on Github](https://github.com/xiaotiandada/view-on-github) VSCode Extension~~
-- ~~[issues](https://github.com/xiaotiandada/issues) Generate README from issues~~
 
 
 Robot notification 🤖️
