@@ -37,6 +37,7 @@ Trace (PR)
 - https://github.com/MrSwitch/hello.js
 - https://github.com/actions/setup-node
 - https://github.com/alibaba/hooks
+- https://github.com/garmeeh/next-seo
 
 <!--
 **xiaotiandada/xiaotiandada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
