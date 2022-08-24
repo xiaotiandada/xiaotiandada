@@ -6,24 +6,15 @@
 
 Just looking around ？
 
-
+- [issues](https://github.com/xiaotiandada/issues) Generate README from issues
 - [Code Tool](https://cant-xt.vercel.app) [Reoo](https://github.com/xiaotiandada/cant)
 - [Source Notes](https://source-notes.vercel.app) [Repo](https://github.com/xiaotiandada/document)
-- [issues](https://github.com/xiaotiandada/issues) Generate README from issues
 - [chain-temp](https://github.com/xiaotiandada/chain-temp) DAPP
 - [3d](https://github.com/xiaotiandada/3d) 3D Example
 - [look](https://github.com/xiaotiandada/look) wallpaper APP
 - [look-wallpapers](https://github.com/xiaotiandada/look-wallpapers) wallpaper desktop application
 - [moyu](https://github.com/xiaotiandada/moyu) Reading novels
 - ~~[View on Github](https://github.com/xiaotiandada/view-on-github) VSCode Extension~~
-
-
-Robot notification 🤖️
-
-- [robot notification FE](https://github.com/xiaotiandada/robot-notification-fe)
-- [robot notification BE](https://github.com/xiaotiandada/robot-notification)
-- [robot monitor](https://github.com/xiaotiandada/arewedown)
-
 
 <!-- 该死的“虚荣心” -->
 
