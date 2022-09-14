@@ -7,8 +7,7 @@
 Just looking around ？
 
 - [issues](https://github.com/xiaotiandada/issues) Generate README from issues
-- [Code Tool](https://cant-xt.vercel.app) [Reoo](https://github.com/xiaotiandada/cant)
-- [Source Notes](https://source-notes.vercel.app) [Repo](https://github.com/xiaotiandada/document)
+- [command CV](https://command-cv.vercel.app) [Reoo](https://github.com/xiaotiandada/cv)
 - [chain-temp](https://github.com/xiaotiandada/chain-temp) DAPP
 - [3d](https://github.com/xiaotiandada/3d) 3D Example
 - [look](https://github.com/xiaotiandada/look) wallpaper APP
