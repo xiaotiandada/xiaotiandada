@@ -12,7 +12,6 @@ Just looking around ？
 - [look](https://github.com/xiaotiandada/look) wallpaper APP
 - [look-wallpapers](https://github.com/xiaotiandada/look-wallpapers) wallpaper desktop application
 - [moyu](https://github.com/xiaotiandada/moyu) Reading novels
-- ~~[View on Github](https://github.com/xiaotiandada/view-on-github) VSCode Extension~~
 
 <!-- 该死的“虚荣心” -->
 
@@ -27,6 +26,7 @@ Trace (PR)
 - https://github.com/actions/setup-node
 - https://github.com/alibaba/hooks
 - https://github.com/garmeeh/next-seo
+- https://github.com/antvis/X6
 
 <!--
 **xiaotiandada/xiaotiandada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
