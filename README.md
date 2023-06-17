@@ -27,6 +27,7 @@ Trace (PR)
 - https://github.com/alibaba/hooks
 - https://github.com/garmeeh/next-seo
 - https://github.com/antvis/X6
+- https://github.com/silexlabs/grapesjs-ui-suggest-classes
 
 <!--
 **xiaotiandada/xiaotiandada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
