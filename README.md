@@ -8,9 +8,6 @@ Just looking around ？
 
 - [issues](https://github.com/xiaotiandada/issues) Generate README from issues
 - [command CV](https://command-cv.vercel.app) [Reoo](https://github.com/xiaotiandada/cv)
-- [chain-temp](https://github.com/xiaotiandada/chain-temp) DAPP
-- [look](https://github.com/xiaotiandada/look) wallpaper APP
-- [look-wallpapers](https://github.com/xiaotiandada/look-wallpapers) wallpaper desktop application
 - [moyu](https://github.com/xiaotiandada/moyu) Reading novels
 
 <!-- 该死的“虚荣心” -->
