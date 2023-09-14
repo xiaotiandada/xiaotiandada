@@ -7,8 +7,9 @@
 Just looking around ？
 
 - [issues](https://github.com/xiaotiandada/issues) Generate README from issues
-- [command CV](https://command-cv.vercel.app) [Reoo](https://github.com/xiaotiandada/cv)
 - [moyu](https://github.com/xiaotiandada/moyu) Reading novels
+- [blog - notion](https://xt.super.site/)
+- [blog - issues](https://github.com/xiaotiandada/blog/issues)
 
 <!-- 该死的“虚荣心” -->
 
