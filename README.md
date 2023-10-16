@@ -28,6 +28,7 @@ Trace (PR)
 - https://github.com/garmeeh/next-seo
 - https://github.com/antvis/X6
 - https://github.com/silexlabs/grapesjs-ui-suggest-classes
+- https://github.com/hemengke1997/use-antd-resizable-header
 
 
 <!--
