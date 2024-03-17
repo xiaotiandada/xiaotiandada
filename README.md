@@ -18,6 +18,7 @@ Trace (PR)
 - https://github.com/ant-design/ant-design
 - https://github.com/ant-design/ant-design-pro
 - https://github.com/ant-design/pro-components
+- https://github.com/ant-design/antd-style
 - https://github.com/strapi/strapi
 - https://github.com/PanJiaChen/vue-element-admin
 - https://github.com/NervJS/taro-docs
